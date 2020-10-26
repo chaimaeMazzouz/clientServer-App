@@ -1,0 +1,6 @@
+C:\Users\MZ\source\repos\clientServer_clientSide\bin\Debug\clientServer_clientSide.exe.config
+C:\Users\MZ\source\repos\clientServer_clientSide\bin\Debug\clientServer_clientSide.exe
+C:\Users\MZ\source\repos\clientServer_clientSide\bin\Debug\clientServer_clientSide.pdb
+C:\Users\MZ\source\repos\clientServer_clientSide\obj\Debug\clientServer_clientSide.csproj.CoreCompileInputs.cache
+C:\Users\MZ\source\repos\clientServer_clientSide\obj\Debug\clientServer_clientSide.exe
+C:\Users\MZ\source\repos\clientServer_clientSide\obj\Debug\clientServer_clientSide.pdb
