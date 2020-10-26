@@ -1,7 +1,0 @@
-C:\Users\MZ\source\repos\client_server\bin\Debug\client_server.exe.config
-C:\Users\MZ\source\repos\client_server\bin\Debug\client_server.exe
-C:\Users\MZ\source\repos\client_server\bin\Debug\client_server.pdb
-C:\Users\MZ\source\repos\client_server\obj\Debug\clientServer_serverSide.csprojAssemblyReference.cache
-C:\Users\MZ\source\repos\client_server\obj\Debug\clientServer_serverSide.csproj.CoreCompileInputs.cache
-C:\Users\MZ\source\repos\client_server\obj\Debug\client_server.exe
-C:\Users\MZ\source\repos\client_server\obj\Debug\client_server.pdb
